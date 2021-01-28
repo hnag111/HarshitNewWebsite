@@ -1,0 +1,12 @@
+C:\DotNetCore2020New\E_commarceWebApp\E_commarceWebApp.ModelLayer\bin\Debug\netcoreapp3.1\E_commarceWebApp.ModelLayer.deps.json
+C:\DotNetCore2020New\E_commarceWebApp\E_commarceWebApp.ModelLayer\bin\Debug\netcoreapp3.1\E_commarceWebApp.ModelLayer.runtimeconfig.json
+C:\DotNetCore2020New\E_commarceWebApp\E_commarceWebApp.ModelLayer\bin\Debug\netcoreapp3.1\E_commarceWebApp.ModelLayer.runtimeconfig.dev.json
+C:\DotNetCore2020New\E_commarceWebApp\E_commarceWebApp.ModelLayer\bin\Debug\netcoreapp3.1\E_commarceWebApp.ModelLayer.dll
+C:\DotNetCore2020New\E_commarceWebApp\E_commarceWebApp.ModelLayer\bin\Debug\netcoreapp3.1\E_commarceWebApp.ModelLayer.pdb
+C:\DotNetCore2020New\E_commarceWebApp\E_commarceWebApp.ModelLayer\obj\Debug\netcoreapp3.1\E_commarceWebApp.ModelLayer.csprojAssemblyReference.cache
+C:\DotNetCore2020New\E_commarceWebApp\E_commarceWebApp.ModelLayer\obj\Debug\netcoreapp3.1\E_commarceWebApp.ModelLayer.AssemblyInfoInputs.cache
+C:\DotNetCore2020New\E_commarceWebApp\E_commarceWebApp.ModelLayer\obj\Debug\netcoreapp3.1\E_commarceWebApp.ModelLayer.AssemblyInfo.cs
+C:\DotNetCore2020New\E_commarceWebApp\E_commarceWebApp.ModelLayer\obj\Debug\netcoreapp3.1\E_commarceWebApp.ModelLayer.csproj.CoreCompileInputs.cache
+C:\DotNetCore2020New\E_commarceWebApp\E_commarceWebApp.ModelLayer\obj\Debug\netcoreapp3.1\E_commarceWebApp.ModelLayer.dll
+C:\DotNetCore2020New\E_commarceWebApp\E_commarceWebApp.ModelLayer\obj\Debug\netcoreapp3.1\E_commarceWebApp.ModelLayer.pdb
+C:\DotNetCore2020New\E_commarceWebApp\E_commarceWebApp.ModelLayer\obj\Debug\netcoreapp3.1\E_commarceWebApp.ModelLayer.genruntimeconfig.cache

@@ -1,0 +1,86 @@
+﻿@model IEnumerable<E_commarceWebApp.ModelLayer.Product>
+    @{
+        ViewData["Title"] = "Home Page";
+    }
+
+    <div class="text-center">
+        <h1 class="display-4">Welcome</h1>
+        <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    </div>
+    <div class="card">
+        <div class="card-header ">
+            <b> List Of All Product</b>
+        </div>
+        <div class="card-body">
+            <table>
+                <thead>
+                    <tr>
+                        <td>
+                            Name
+                        </td>
+                        <td>
+                            AdditionDate
+                        </td>
+                        <td>
+                            FileName
+                        </td>
+                        <td>
+                            UnitPrice
+                        </td>
+                        <td>
+                            ProductDiscription
+                        </td>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var Mode in Model)
+                    {
+                        <tr>
+                            <td>
+                                @Mode.Name
+                            </td>
+                            <td>
+                                @Mode.AdditionDate
+                            </td>
+                            <td>
+                                @Mode.CategoryId
+                            </td>
+                            <td>
+                                @Mode.FileName
+                            </td>
+                            <td>
+                                @Mode.ProductDiscription
+
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
