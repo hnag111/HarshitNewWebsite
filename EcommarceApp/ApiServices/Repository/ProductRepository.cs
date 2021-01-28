@@ -11,6 +11,7 @@ namespace EcommarceAppEndUserLayer.ApiServices.Repository
 {
     public class ProductRepository : IProductApiRepository
     {
+
         private readonly HttpClient client;
         public readonly string BaseUri = "https://localhost:44302/";
         public ProductRepository(HttpClient client)
